@@ -4,8 +4,8 @@
 
 // console.log(a)
 
-type name2 = string
+type name2 = any
 
-let a2 : name2 = "조자연"
+let a2 : any = "조자연"
 
 console.log(a2)
